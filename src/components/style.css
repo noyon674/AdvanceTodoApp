@@ -158,3 +158,9 @@
 .complete-item button:hover{
     color: white;
 }
+
+
+.light-main-body .input-section input{
+    background-color: white;
+    color: #222;
+}
